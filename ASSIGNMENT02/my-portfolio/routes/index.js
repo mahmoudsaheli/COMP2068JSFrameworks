@@ -265,6 +265,20 @@ const posts = [
               <h3>Building Layouts</h3>
               <p>Common layout patterns like navbars, cards, and galleries.</p>`
   }
+  ,{
+    title: "Mastering JavaScript in 30 Days",
+    date: "July 15, 2025",
+    excerpt: "JavaScript is the backbone of modern web development. In this post, we explore a 30-day plan to master JavaScript fundamentals and advanced concepts.",
+    content: `<p>JavaScript is a versatile and widely-used language for web development. This 30-day guide will help you systematically learn the language, from basics like variables and functions to advanced topics such as asynchronous programming and ES6+ features.</p>
+              <h3>Week 1: Basics</h3>
+              <p>Start with variables, data types, control flow, and functions. Understand how JavaScript works in the browser and how to manipulate the DOM.</p>
+              <h3>Week 2: Intermediate Concepts</h3>
+              <p>Dive into objects, arrays, event handling, and DOM manipulation to create interactive web pages.</p>
+              <h3>Week 3: Advanced Topics</h3>
+              <p>Understand closures, promises, async/await, modules, and how to handle asynchronous JavaScript.</p>
+              <h3>Week 4: Project</h3>
+              <p>Build a small web app that uses APIs, handles events, and demonstrates the concepts you’ve learned.</p>`
+  }
 ];
 
 
